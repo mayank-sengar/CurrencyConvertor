@@ -1,8 +1,7 @@
-# React + Vite
+Currency Converter:
+A web-based currency converter built using React, JavaScript, HTML, and CSS. It allows users to convert between multiple currencies with a simple and intuitive interface. The project is deployed on Vercel and managed using Git for version control.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+Frontend: React, JavaScript, HTML, CSS
+Deployment: Vercel
+Version Control: Git
